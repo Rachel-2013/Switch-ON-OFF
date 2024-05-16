@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+button{
+    width: 180px;
+    height: 70px;
+    background-color: cyan;
+    color: black;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+button:hover{
+    background-color: gold;
+}
